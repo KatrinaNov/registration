@@ -33,6 +33,17 @@ body {
   font-size: 22px;
   color: rgb(250, 250, 179);
   text-align: left;
-  max-width: 60%;
+  max-width: 70%;
   margin: 0 auto;
+}
+.deleteUser {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.deleteUser img{
+  width: 100%; 
 }
